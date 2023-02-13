@@ -12,17 +12,34 @@
 - 🌱 I’m currently learning Flutter and Kotlin  
   
 
-- ⚡ Fun fact: I'm Ambitions
+- ⚡ Fun fact: I'm Ambitious
   
 
 TR
+Ben kendini geliştirmiş bir yazılım geliştiricisiyim
 
-Merhaba Ben Andaç Taşdemir. Bartın Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri bölümünde okuyorum. 4. Sınıf öğrencisiyim. İstanbul'da yaşıyorum. 23 Yaşındayım. Bütünsel olarak yazılım geliştirme ve tasarım bilgisine sahip bir öğrenciyim. Kendini geliştirmeye çalışan ve alanında iyi yerlere gelmeye çalışan bir yazılımcıyım. Kendimi Mobil uygulama alanında geliştiriyorum. Özellikle Flutter diline oldukça hakimim. Bunun yanında Web geliştirici olarak da kendimi geliştirdim. Php MySql Html css dillerini de orta seviye biliyorum. İngilizce seviyem ise B2 düzeyindedir. Takım çalışmasına uyumluyumdur, iletişimim kuvvetlidir. Hırslı ve daima yeni şeyler öğrenen birisiyimdir.
+mobil uygulamalar alanı ve esas olarak Çarpıntı.
+Android'de işinizi büyütmenize yardımcı olacak niteliklere sahibim
+ve İOS işletim sistemleri ve planladım
+bir mobil uygulama geliştiricisi olarak kariyer ve istekli
+daha iyi ve daha iyi olmak için bu alanda çalışın. Aynı zamanda
+zaman, farklı bilgi ve ilgim var
+yazılım dillerinde yer almak istiyorum
+bu alanlarda yürütülecek projeler. Buna ek olarak, ben
+takım çalışmasında uyumluyum, iletişimim
+güçlü de hırslıyım ve her zaman yeni şeyler öğreniyorum.EN
 
-EN
-
-Hello, I am Andaç Taşdemir. I study at Bartın University Computer Technology and Information Systems department. I am a senior. I live in Istanbul. I am 23 years old. I am a student with holistic software development and design knowledge. I am a software developer who is trying to improve himself and trying to come to good places in his field. I am developing myself in the field of Mobile application. I am especially well versed in Flutter language. In addition, I have developed myself as a web developer. I know Php MySql Html css languages at an intermediate level. My English level is B2 level. I am compatible with teamwork, my communication is strong. I am ambitious and always learning new things.  
-  
+I am a software developer who has developed himself in
+the field of mobile applications and mainly in Flutter.
+I'm qualified to help you grow your business on Android
+and IOS operating systems, and have planned my
+career as a mobile application developer and willing to
+work in this field to get better and better. At the same
+time, I have knowledge and interest in different
+software languages and I would like to take part in
+projects to be carried out in these fields. In addition, I
+am compatible in teamwork, my communication is
+strong also I ambitious and always learning new things.
 
 <br/>  
 
