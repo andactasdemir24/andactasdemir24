@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Andaç Taşdemir, I'm a software Developer. a Android IOS Mobile developer with Flutter 👨‍💻</div>  
+### <div align="center">I'm Andaç Taşdemir, I'm a software Developer. an Android IOS Mobile developer with Flutter 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/andactasdemir24)  
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Flutter and Kotlin  
   
 
-- ⚡ Fun fact: I'am Funny  
+- ⚡ Fun fact: I'm Ambitions
   
 
 TR
@@ -21,7 +21,7 @@ Merhaba Ben Andaç Taşdemir. Bartın Üniversitesi Bilgisayar Teknolojisi ve Bi
 
 EN
 
-Hello, I am Andaç Taşdemir. I study at Bartın University Computer Technology and Information Systems department. I am a 4th year student. I live in Istanbul. I am 23 years old. I am a student with holistic software development and design knowledge. I am a software developer who is trying to improve himself and trying to come to good places in his field. I am developing myself in the field of Mobile application. I am especially well versed in Flutter language. In addition, I have developed myself as a web developer. I know Php MySql Html css languages at an intermediate level. My English level is B2 level. I am compatible with teamwork, my communication is strong. I am ambitious and always learning new things.  
+Hello, I am Andaç Taşdemir. I study at Bartın University Computer Technology and Information Systems department. I am a senior. I live in Istanbul. I am 23 years old. I am a student with holistic software development and design knowledge. I am a software developer who is trying to improve himself and trying to come to good places in his field. I am developing myself in the field of Mobile application. I am especially well versed in Flutter language. In addition, I have developed myself as a web developer. I know Php MySql Html css languages at an intermediate level. My English level is B2 level. I am compatible with teamwork, my communication is strong. I am ambitious and always learning new things.  
   
 
 <br/>  
@@ -71,7 +71,7 @@ Hello, I am Andaç Taşdemir. I study at Bartın University Computer Technology 
 
 
 
-### DevOps  
+### Android  
 <div align="center">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
