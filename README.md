@@ -27,7 +27,9 @@ zaman, farklı bilgi ve ilgim var
 yazılım dillerinde yer almak istiyorum
 bu alanlarda yürütülecek projeler. Buna ek olarak, ben
 takım çalışmasında uyumluyum, iletişimim
-güçlü de hırslıyım ve her zaman yeni şeyler öğreniyorum.EN
+güçlü de hırslıyım ve her zaman yeni şeyler öğreniyorum.
+
+EN
 
 I am a software developer who has developed himself in
 the field of mobile applications and mainly in Flutter.
