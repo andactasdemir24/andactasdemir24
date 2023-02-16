@@ -16,18 +16,8 @@
   
 
 TR
-Ben kendini geliştirmiş bir yazılım geliştiricisiyim
 
-mobil uygulamalar alanı ve esas olarak Çarpıntı.
-Android'de işinizi büyütmenize yardımcı olacak niteliklere sahibim
-ve İOS işletim sistemleri ve planladım
-bir mobil uygulama geliştiricisi olarak kariyer ve istekli
-daha iyi ve daha iyi olmak için bu alanda çalışın. Aynı zamanda
-zaman, farklı bilgi ve ilgim var
-yazılım dillerinde yer almak istiyorum
-bu alanlarda yürütülecek projeler. Buna ek olarak, ben
-takım çalışmasında uyumluyum, iletişimim
-güçlü de hırslıyım ve her zaman yeni şeyler öğreniyorum.
+Mobil uygulamalar alanında ve ağırlıklı olarak Flutter alanında kendini geliştirmiş bir yazılım geliştiricisiyim. Android ve İOS işletim sistemlerinde işinizi büyütmenize yardımcı olacak nitelikteyim ve kariyerimi bir mobil uygulama geliştiricisi olarak planladım ve daha iyi ve daha iyi olmak için bu alanda çalışmaya istekliyim. Aynı zamanda farklı yazılım dilleri konusunda bilgi ve ilgim var ve bu alanlarda yürütülecek projelerde yer almak istiyorum. Ayrıca takım çalışmasında uyumluyum, iletişimim güçlü ayrıca hırslıyım ve her zaman yeni şeyler öğreniyorum.
 
 EN
 
