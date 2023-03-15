@@ -120,7 +120,7 @@ strong also I ambitious and always learning new things.
 <img src="https://github-readme-stats.vercel.app/api?username=andactasdemir24&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /> 
 
 
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andactasdemir24&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andactasdemir24&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
 <br/>  
 
